@@ -25,6 +25,7 @@ public class random_game {
             }
             if(money>=20){
                 System.out.println("Bohot kama lia ab ghar jao");
+                System.out.println("Profit: 10");
                 break;
             }
         }
